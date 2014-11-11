@@ -1,7 +1,7 @@
 WAMP
 ====
 
-Apache, MySQL & PHP for Windows
+[Apache](http://httpd.apache.org/), [MySQL](http://www.mysql.com/) & [PHP](http://php.net/) for Windows
 
 
 Source
